@@ -1,1 +1,1 @@
-# acemi basit ve acemi atm uygulaması
+ilk  acemi  denemem  basit  bir  atm  uygulaması
